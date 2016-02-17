@@ -24,9 +24,6 @@ Esta etapa, estuvo a cargo de [Ma. Fernanda Calderón ](https://github.com/maf3r
 ### ChiroVersion
 [![Pana Guayaco Free](https://raw.githubusercontent.com/rebekris/CultoGuayaco/master/icon.png)](https://play.google.com/store/apps/details?id=rebekris.guayaco.loco)
 
-### PeluconVersion
-[![Pana Guayaco Pro](https://raw.githubusercontent.com/rebekris/CultoGuayaco/master/icon2.png)](https://play.google.com/store/apps/details?id=el.panaguayaco)
-
    
   
   
